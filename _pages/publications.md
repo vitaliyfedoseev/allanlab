@@ -6,11 +6,11 @@ sitemap: false
 permalink: /publications/
 ---
 
-# Publicationss
+# Publications
 
 ## Highlights
 
-(For a full list see below or go to <a href="https://scholar.google.ch/citations?user=TqxYWZsAAAAJ">Google Scholar</a>, <a href="https://www.researcherid.com/rid/D-7763-2012">ResearcherID</a>)
+(For a fulll list see below or go to <a href="https://scholar.google.ch/citations?user=TqxYWZsAAAAJ">Google Scholar</a>, <a href="https://www.researcherid.com/rid/D-7763-2012">ResearcherID</a>)
 
 {% for publi in site.data.publist %}
 
